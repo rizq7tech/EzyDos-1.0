@@ -1,0 +1,530 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FAD40E171E6154D600E7448F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD40E161E6154D600E7448F /* AppDelegate.swift */; };
+		FAD40E191E6154D700E7448F /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD40E181E6154D700E7448F /* FirstViewController.swift */; };
+		FAD40E1B1E6154D700E7448F /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD40E1A1E6154D700E7448F /* SecondViewController.swift */; };
+		FAD40E1E1E6154D800E7448F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAD40E1C1E6154D800E7448F /* Main.storyboard */; };
+		FAD40E201E6154D800E7448F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAD40E1F1E6154D800E7448F /* Assets.xcassets */; };
+		FAD40E231E6154D800E7448F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAD40E211E6154D800E7448F /* LaunchScreen.storyboard */; };
+		FAD40E2E1E6154DA00E7448F /* EzyMekahTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD40E2D1E6154DA00E7448F /* EzyMekahTests.swift */; };
+		FAD40E391E6154DA00E7448F /* EzyMekahUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD40E381E6154DA00E7448F /* EzyMekahUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		FAD40E2A1E6154DA00E7448F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FAD40E0B1E6154D000E7448F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FAD40E121E6154D000E7448F;
+			remoteInfo = EzyMekah;
+		};
+		FAD40E351E6154DA00E7448F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FAD40E0B1E6154D000E7448F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FAD40E121E6154D000E7448F;
+			remoteInfo = EzyMekah;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		FAD40E131E6154D500E7448F /* EzyMekah.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EzyMekah.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FAD40E161E6154D600E7448F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		FAD40E181E6154D700E7448F /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		FAD40E1A1E6154D700E7448F /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		FAD40E1D1E6154D800E7448F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FAD40E1F1E6154D800E7448F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FAD40E221E6154D800E7448F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		FAD40E241E6154D800E7448F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FAD40E291E6154DA00E7448F /* EzyMekahTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EzyMekahTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FAD40E2D1E6154DA00E7448F /* EzyMekahTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EzyMekahTests.swift; sourceTree = "<group>"; };
+		FAD40E2F1E6154DA00E7448F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FAD40E341E6154DA00E7448F /* EzyMekahUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EzyMekahUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FAD40E381E6154DA00E7448F /* EzyMekahUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EzyMekahUITests.swift; sourceTree = "<group>"; };
+		FAD40E3A1E6154DA00E7448F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FAD40E101E6154D000E7448F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FAD40E261E6154DA00E7448F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FAD40E311E6154DA00E7448F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FAD40E0A1E6154CF00E7448F = {
+			isa = PBXGroup;
+			children = (
+				FAD40E151E6154D500E7448F /* EzyMekah */,
+				FAD40E2C1E6154DA00E7448F /* EzyMekahTests */,
+				FAD40E371E6154DA00E7448F /* EzyMekahUITests */,
+				FAD40E141E6154D500E7448F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FAD40E141E6154D500E7448F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FAD40E131E6154D500E7448F /* EzyMekah.app */,
+				FAD40E291E6154DA00E7448F /* EzyMekahTests.xctest */,
+				FAD40E341E6154DA00E7448F /* EzyMekahUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FAD40E151E6154D500E7448F /* EzyMekah */ = {
+			isa = PBXGroup;
+			children = (
+				FAD40E161E6154D600E7448F /* AppDelegate.swift */,
+				FAD40E181E6154D700E7448F /* FirstViewController.swift */,
+				FAD40E1A1E6154D700E7448F /* SecondViewController.swift */,
+				FAD40E1C1E6154D800E7448F /* Main.storyboard */,
+				FAD40E1F1E6154D800E7448F /* Assets.xcassets */,
+				FAD40E211E6154D800E7448F /* LaunchScreen.storyboard */,
+				FAD40E241E6154D800E7448F /* Info.plist */,
+			);
+			path = EzyMekah;
+			sourceTree = "<group>";
+		};
+		FAD40E2C1E6154DA00E7448F /* EzyMekahTests */ = {
+			isa = PBXGroup;
+			children = (
+				FAD40E2D1E6154DA00E7448F /* EzyMekahTests.swift */,
+				FAD40E2F1E6154DA00E7448F /* Info.plist */,
+			);
+			path = EzyMekahTests;
+			sourceTree = "<group>";
+		};
+		FAD40E371E6154DA00E7448F /* EzyMekahUITests */ = {
+			isa = PBXGroup;
+			children = (
+				FAD40E381E6154DA00E7448F /* EzyMekahUITests.swift */,
+				FAD40E3A1E6154DA00E7448F /* Info.plist */,
+			);
+			path = EzyMekahUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FAD40E121E6154D000E7448F /* EzyMekah */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FAD40E3D1E6154DB00E7448F /* Build configuration list for PBXNativeTarget "EzyMekah" */;
+			buildPhases = (
+				FAD40E0F1E6154D000E7448F /* Sources */,
+				FAD40E101E6154D000E7448F /* Frameworks */,
+				FAD40E111E6154D000E7448F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = EzyMekah;
+			productName = EzyMekah;
+			productReference = FAD40E131E6154D500E7448F /* EzyMekah.app */;
+			productType = "com.apple.product-type.application";
+		};
+		FAD40E281E6154DA00E7448F /* EzyMekahTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FAD40E401E6154DB00E7448F /* Build configuration list for PBXNativeTarget "EzyMekahTests" */;
+			buildPhases = (
+				FAD40E251E6154DA00E7448F /* Sources */,
+				FAD40E261E6154DA00E7448F /* Frameworks */,
+				FAD40E271E6154DA00E7448F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FAD40E2B1E6154DA00E7448F /* PBXTargetDependency */,
+			);
+			name = EzyMekahTests;
+			productName = EzyMekahTests;
+			productReference = FAD40E291E6154DA00E7448F /* EzyMekahTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		FAD40E331E6154DA00E7448F /* EzyMekahUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FAD40E431E6154DB00E7448F /* Build configuration list for PBXNativeTarget "EzyMekahUITests" */;
+			buildPhases = (
+				FAD40E301E6154DA00E7448F /* Sources */,
+				FAD40E311E6154DA00E7448F /* Frameworks */,
+				FAD40E321E6154DA00E7448F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FAD40E361E6154DA00E7448F /* PBXTargetDependency */,
+			);
+			name = EzyMekahUITests;
+			productName = EzyMekahUITests;
+			productReference = FAD40E341E6154DA00E7448F /* EzyMekahUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FAD40E0B1E6154D000E7448F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0820;
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = Macbook;
+				TargetAttributes = {
+					FAD40E121E6154D000E7448F = {
+						CreatedOnToolsVersion = 8.2.1;
+						ProvisioningStyle = Automatic;
+					};
+					FAD40E281E6154DA00E7448F = {
+						CreatedOnToolsVersion = 8.2.1;
+						ProvisioningStyle = Automatic;
+						TestTargetID = FAD40E121E6154D000E7448F;
+					};
+					FAD40E331E6154DA00E7448F = {
+						CreatedOnToolsVersion = 8.2.1;
+						ProvisioningStyle = Automatic;
+						TestTargetID = FAD40E121E6154D000E7448F;
+					};
+				};
+			};
+			buildConfigurationList = FAD40E0E1E6154D000E7448F /* Build configuration list for PBXProject "EzyMekah" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FAD40E0A1E6154CF00E7448F;
+			productRefGroup = FAD40E141E6154D500E7448F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FAD40E121E6154D000E7448F /* EzyMekah */,
+				FAD40E281E6154DA00E7448F /* EzyMekahTests */,
+				FAD40E331E6154DA00E7448F /* EzyMekahUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FAD40E111E6154D000E7448F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FAD40E231E6154D800E7448F /* LaunchScreen.storyboard in Resources */,
+				FAD40E201E6154D800E7448F /* Assets.xcassets in Resources */,
+				FAD40E1E1E6154D800E7448F /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FAD40E271E6154DA00E7448F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FAD40E321E6154DA00E7448F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FAD40E0F1E6154D000E7448F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FAD40E1B1E6154D700E7448F /* SecondViewController.swift in Sources */,
+				FAD40E171E6154D600E7448F /* AppDelegate.swift in Sources */,
+				FAD40E191E6154D700E7448F /* FirstViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FAD40E251E6154DA00E7448F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FAD40E2E1E6154DA00E7448F /* EzyMekahTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FAD40E301E6154DA00E7448F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FAD40E391E6154DA00E7448F /* EzyMekahUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		FAD40E2B1E6154DA00E7448F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FAD40E121E6154D000E7448F /* EzyMekah */;
+			targetProxy = FAD40E2A1E6154DA00E7448F /* PBXContainerItemProxy */;
+		};
+		FAD40E361E6154DA00E7448F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FAD40E121E6154D000E7448F /* EzyMekah */;
+			targetProxy = FAD40E351E6154DA00E7448F /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		FAD40E1C1E6154D800E7448F /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FAD40E1D1E6154D800E7448F /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		FAD40E211E6154D800E7448F /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FAD40E221E6154D800E7448F /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		FAD40E3B1E6154DB00E7448F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		FAD40E3C1E6154DB00E7448F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FAD40E3E1E6154DB00E7448F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = EzyMekah/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = EzyGroupApp.EzyMekah;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		FAD40E3F1E6154DB00E7448F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = EzyMekah/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = EzyGroupApp.EzyMekah;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		FAD40E411E6154DB00E7448F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = EzyMekahTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = EzyGroupApp.EzyMekahTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/EzyMekah.app/EzyMekah";
+			};
+			name = Debug;
+		};
+		FAD40E421E6154DB00E7448F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = EzyMekahTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = EzyGroupApp.EzyMekahTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/EzyMekah.app/EzyMekah";
+			};
+			name = Release;
+		};
+		FAD40E441E6154DB00E7448F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = EzyMekahUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = EzyGroupApp.EzyMekahUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = EzyMekah;
+			};
+			name = Debug;
+		};
+		FAD40E451E6154DB00E7448F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = EzyMekahUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = EzyGroupApp.EzyMekahUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = EzyMekah;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FAD40E0E1E6154D000E7448F /* Build configuration list for PBXProject "EzyMekah" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FAD40E3B1E6154DB00E7448F /* Debug */,
+				FAD40E3C1E6154DB00E7448F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FAD40E3D1E6154DB00E7448F /* Build configuration list for PBXNativeTarget "EzyMekah" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FAD40E3E1E6154DB00E7448F /* Debug */,
+				FAD40E3F1E6154DB00E7448F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		FAD40E401E6154DB00E7448F /* Build configuration list for PBXNativeTarget "EzyMekahTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FAD40E411E6154DB00E7448F /* Debug */,
+				FAD40E421E6154DB00E7448F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		FAD40E431E6154DB00E7448F /* Build configuration list for PBXNativeTarget "EzyMekahUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FAD40E441E6154DB00E7448F /* Debug */,
+				FAD40E451E6154DB00E7448F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FAD40E0B1E6154D000E7448F /* Project object */;
+}
