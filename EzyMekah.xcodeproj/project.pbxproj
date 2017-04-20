@@ -196,6 +196,7 @@
 				TargetAttributes = {
 					FAD40E121E6154D000E7448F = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = BN43PA74V3;
 						ProvisioningStyle = Automatic;
 					};
 					FAD40E281E6154DA00E7448F = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = BN43PA74V3;
 				INFOPLIST_FILE = EzyMekah/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = EzyGroupApp.EzyMekah;
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = BN43PA74V3;
 				INFOPLIST_FILE = EzyMekah/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = EzyGroupApp.EzyMekah;
