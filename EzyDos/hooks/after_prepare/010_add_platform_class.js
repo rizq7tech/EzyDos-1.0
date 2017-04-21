@@ -1,4 +1,4 @@
-#!/usr/bin/env node1
+#!/usr/bin/env node
 
 // Add Platform Class
 // v1.0
