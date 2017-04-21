@@ -2,7 +2,7 @@
 	{
 		"id":"news",
 		"title":"Hajj & Umrah Travel & Tours News",
-		"image":"img/feeds/news.jpg",
+		"image":"img/feeds/news.png",
 		"feed_sources":[
 			{
 				"id":"bbc",
