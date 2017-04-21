@@ -1,190 +1,190 @@
 [
 	{
 		"id":"news",
-		"title":"News",
+		"title":"Hajj & Umrah Travel & Tours News",
 		"image":"img/feeds/news.jpg",
 		"feed_sources":[
 			{
 				"id":"bbc",
-				"title":"BBC",
-				"description":"The latest stories from the World section of the BBC News web site.",
-				"image":"img/feeds/logos/bbc.jpg",
-				"url":"http://feeds.bbci.co.uk/news/world/rss.xml"
+				"title":"TH Travel & Tours",
+				"description":"The latest stories from TH Travel & Tours.",
+				"image":"img/feeds/logos/th.png",
+				"url":"http://ezymekah.com/ezy_dos/tours/th-travel-sb/"
 			},
 			{
 				"id":"reuters",
-				"title":"Reuters",
-				"description":"Reuters.com is your source for breaking news, business, financial and investing news, including personal finance and stocks. Reuters is the leading global provider of news, financial information and technology solutions to the world's media, financial institutions, businesses and individuals.",
-				"image":"img/feeds/logos/reuters.jpg",
-				"url":"http://feeds.reuters.com/Reuters/worldNews"
+				"title":"Batuta Travel & Tours",
+				"description":"The latest stories from Batuta Travel & Tours.",
+				"image":"img/feeds/logos/batuta.png",
+				"url":"http://ezymekah.com/ezy_dos/tours/batuta-travel-tours/"
 			},
 			{
 				"id":"cnn",
-				"title":"CNN",
-				"description":"CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.",
-				"image":"img/feeds/logos/cnn.jpg",
-				"url":"http://rss.cnn.com/rss/cnn_world.rss"
+				"title":"Beststar Travel Center",
+				"description":"The latest stories from Beststar Travel Center.",
+				"image":"img/feeds/logos/beststar.png",
+				"url":"http://ezymekah.com/ezy_dos/tours/beststar-travel-centre/"
 			},
 			{
 				"id":"the-guardian",
-				"title":"The Guardian",
-				"description":"Latest World news, comment and analysis from the Guardian, the world's leading liberal voice",
-				"image":"img/feeds/logos/the-guardian.jpg",
-				"url":"http://www.theguardian.com/world/rss"
+				"title":"Falcon Travel & Tour",
+				"description":"The latest stories from Falcon Travel Tours",
+				"image":"img/feeds/logos/falcon.png",
+				"url":"http://ezymekah.com/ezy_dos/tours/falcon-travel-tours/"
 			}
 		]
 	},
 	{
 		"id":"sports",
-		"title":"Sports",
-		"image":"img/feeds/sports.jpg",
+		"title":"Transportation",
+		"image":"img/feeds/transportation.png",
 		"feed_sources":[
 			{
 				"id":"the-guardian",
-				"title":"The Guardian",
-				"description":"Latest news and features from theguardian.com, the world's leading liberal voice",
-				"image":"img/feeds/logos/the-guardian.jpg",
-				"url":"http://www.theguardian.com/sport/rss"
+				"title":"KTM Berhad",
+				"description":"Latest news and features from KTMB",
+				"image":"img/feeds/logos/ktmb.png",
+				"url":"http://ezymekah.com/ezy_dos/trans-anim/"
 			},
 			{
 				"id":"bbc",
-				"title":"BBC",
-				"description":"The latest stories from the Sport section of the BBC Sport web site.",
-				"image":"img/feeds/logos/bbc.jpg",
-				"url":"http://feeds.bbci.co.uk/sport/0/rss.xml"
+				"title":"Transnasional Berhad",
+				"description":"The latest stories from Transnasional Berhad.",
+				"image":"img/feeds/logos/transnasional.png",
+				"url":"http://ezymekah.com/ezy_dos/trans-anim/"
 			},
 			{
 				"id":"fox-sports",
-				"title":"FOX Sports",
-				"description":"FOX Sports Generic Content Feed",
-				"image":"img/feeds/logos/fox-sports.jpg",
-				"url":"http://api.foxsports.com/v1/rss?partnerKey=zBaFxRyGKCfxBagJG9b8pqLyndmvo7UU"
+				"title":"Sani Express",
+				"description":"The latest stories from Sani Express",
+				"image":"img/feeds/logos/sani.png",
+				"url":"http://ezymekah.com/ezy_dos/trans-anim/"
 			},
 			{
 				"id":"espn",
-				"title":"ESPN",
-				"description":"Latest news from ESPN.com",
-				"image":"img/feeds/logos/espn.jpg",
-				"url":"http://sports.espn.go.com/espn/rss/news"
+				"title":"Pos Malaysia Berhad",
+				"description":"Latest news from POS Malaysia Berhad",
+				"image":"img/feeds/logos/posmalaysia.png",
+				"url":"http://ezymekah.com/ezy_dos/trans-anim/"
 			}
 		]
 	},
 	{
 		"id":"business",
-		"title":"Business",
-		"image":"img/feeds/business.jpg",
+		"title":"Collections of Duas",
+		"image":"img/feeds/duas.png",
 		"feed_sources":[
 			{
 				"id":"forbes",
-				"title":"Forbes",
-				"description":"Forbes - Business",
-				"image":"img/feeds/logos/forbes.jpg",
-				"url":"http://www.forbes.com/business/feed/"
+				"title":"Surah Al-Fatihah",
+				"description":"Alfatihah",
+				"image":"img/feeds/logos/alfatihah.jpg",
+				"url":"http://ezymekah.com/ezy_dos/doa1/"
 			},
 			{
 				"id":"reuters",
-				"title":"Reuters",
-				"description":"Reuters.com is your source for breaking news, business, financial and investing news, including personal finance and stocks. Reuters is the leading global provider of news, financial information and technology solutions to the world's media, financial institutions, businesses and individuals.",
-				"image":"img/feeds/logos/reuters.jpg",
-				"url":"http://feeds.reuters.com/reuters/businessNews"
+				"title":"Surah Huud",
+				"description":"Surah Huud.",
+				"image":"img/feeds/logos/huud.png",
+				"url":"http://ezymekah.com/ezy_dos/doa1/"
 			},
 			{
 				"id":"the-economist",
-				"title":"The Economist",
-				"description":"The Economist business and finance",
-				"image":"img/feeds/logos/the-economist.jpg",
-				"url":"http://www.economist.com/sections/business-finance/rss.xml"
+				"title":"Surah Yusuf",
+				"description":"Surah Yusuh",
+				"image":"img/feeds/logos/yusuf.png",
+				"url":"http://ezymekah.com/ezy_dos/doa1/"
 			},
 			{
 				"id":"inc",
-				"title":"Inc.",
-				"description":"Advice for founders of start-ups and start-up entrepreneurs on writing a business plan, running a home-based business, naming a start-up business, how to incorporate, financing a start-up, buying a small business, and starting a franchise.",
-				"image":"img/feeds/logos/inc.jpg",
-				"url":"http://feeds.feedburner.com/inc/channel/start-up"
+				"title":"Surah Ibrahim",
+				"description":"Surah Ibrahim.",
+				"image":"img/feeds/logos/ibrahim.png",
+				"url":"http://ezymekah.com/ezy_dos/doa1/"
 			}
 		]
 	},
 	{
 		"id":"entertainment",
-		"title":"Entertainment",
-		"image":"img/feeds/entertainment.jpg",
+		"title":"Pilgrims Stories",
+		"image":"img/feeds/pilgrims.png",
 		"feed_sources":[
 			{
 				"id":"the-hollywood-reporter",
-				"title":"The Hollywood Reporter",
-				"description":"The Hollywood Reporter news",
-				"image":"img/feeds/logos/the-hollywood-reporter.jpg",
-				"url":"http://feeds.feedburner.com/thr/news"
+				"title":"Grand Mosque",
+				"description":"Grand Mosque",
+				"image":"img/feeds/logos/grandmosque.png",
+				"url":"http://ezymekah.com/ezy_dos/holier-than-thou/
 			},
 			{
 				"id":"tmz",
-				"title":"TMZ",
-				"description":"Celebrity Gossip and Entertainment News, Covering Celebrity News and Hollywood Rumors. Get All The Latest Gossip at TMZ - Thirty Mile Zone.",
-				"image":"img/feeds/logos/tmz.jpg",
-				"url":"http://www.tmz.com/rss.xml"
+				"title":"Black Stone",
+				"description":"Black Stone.",
+				"image":"img/feeds/logos/blackstone.png",
+				"url":"http://ezymekah.com/ezy_dos/holier-than-thou/"
 			},
 			{
 				"id":"the-guardian",
-				"title":"The Guardian",
-				"description":"Latest news and features from theguardian.com, the world's leading liberal voice",
-				"image":"img/feeds/logos/the-guardian.jpg",
-				"url":"http://www.theguardian.com/culture/rss"
+				"title":"Zam Zam Well",
+				"description":"Zam Zam Well",
+				"image":"img/feeds/logos/zamzam.png",
+				"url":"http://ezymekah.com/ezy_dos/holier-than-thou/"
 			}
 		]
 	},
 	{
 		"id":"politics",
-		"title":"Politics",
-		"image":"img/feeds/politics.jpg",
+		"title":"Misc Tools",
+		"image":"img/feeds/tools.jpg",
 		"feed_sources":[
 			{
 				"id":"the-nation",
-				"title":"The Nation",
-				"description":"The Nation politics news",
-				"image":"img/feeds/logos/the-nation.jpg",
-				"url":"http://www.thenation.com/blogs/rss/politics"
+				"title":"Misc Tools",
+				"description":"Misc Tools",
+				"image":"img/feeds/logos/tools.png",
+				"url":"http://ezymekah.com/ezy_dos"
 			},
 			{
 				"id":"washington-post",
-				"title":"Washington Post",
-				"description":"Post Politics from The Washington Post is the source for political news headlines, in-depth politics coverage and political opinion, plus breaking news on the Obama administration and White House, Congress, the Supreme Court, elections and more.",
-				"image":"img/feeds/logos/washington-post.jpg",
-				"url":"http://feeds.washingtonpost.com/rss/politics"
+				"title":"Misc Tools",
+				"description":"Misc Tools",
+				"image":"img/feeds/logos/tools.png",
+				"url":"http://ezymekah.com/ezy_dos"
 			},
 			{
 				"id":"reuters",
-				"title":"Reuters",
-				"description":"Reuters.com is your source for breaking news, business, financial and investing news, including personal finance and stocks. Reuters is the leading global provider of news, financial information and technology solutions to the world's media, financial institutions, businesses and individuals.",
-				"image":"img/feeds/logos/reuters.jpg",
-				"url":"http://feeds.reuters.com/Reuters/PoliticsNews"
+				"title":"Misc Tools",
+				"description":"Misc Tools",
+				"image":"img/feeds/logos/tools.png",
+				"url":"http://ezymekah.com/ezy_dos"
 			}
 		]
 	},
 	{
 		"id":"technology",
-		"title":"Technology",
-		"image":"img/feeds/technology.jpg",
+		"title":"Admin Settings",
+		"image":"img/feeds/admin.png",
 		"feed_sources":[
 			{
 				"id":"techcrunch",
-				"title":"TechCrunch",
-				"description":"Startup and Technology News",
-				"image":"img/feeds/logos/techcrunch.jpg",
-				"url":"http://feeds.feedburner.com/TechCrunch/social"
+				"title":"Admin Settings",
+				"description":"Admin Settings",
+				"image":"img/feeds/logos/admin.png",
+				"url":"http://ezymekah.com/api/wp-admin"
 			},
 			{
 				"id":"techradar",
 				"title":"Techradar",
 				"description":"Get all the latest tech news from Techradar.com",
-				"image":"img/feeds/logos/techradar.jpg",
-				"url":"http://feeds2.feedburner.com/techradar/allnews"
+				"image":"img/feeds/logos/admin.png",
+				"url":"http://ezymekah.com/api/wp-admin"
 			},
 			{
 				"id":"cnet",
 				"title":"CNET",
 				"description":"CNET news editors and reporters provide top technology news, with investigative reporting and in-depth coverage of tech issues and events",
-				"image":"img/feeds/logos/cnet.jpg",
-				"url":"http://www.cnet.com/rss/news/"
+				"image":"img/feeds/logos/admin.png",
+				"url":"http://ezymekah.com/api/wp-admin"
 			}
 		]
 	}
