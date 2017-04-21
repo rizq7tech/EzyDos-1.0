@@ -1,4 +1,4 @@
-angular.module('your_app_name.directives', [])1
+angular.module('your_app_name.directives', [])
 
 .directive('myTabs', function() {
 	return {
