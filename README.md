@@ -1,7 +1,6 @@
-| EzyMekahApp .\ モ乙ㄚ刀口ち ver1.0___________ 
-| Developed by.\ 工れ匕elㄥiムeれモ匕hics_モc爪a 
-| Copyrights 2017. 7丹pps工nc.(丹sia)_______           
-| <_ ed@hybrionic.io _____________________                        
+EzyMekahApp .\ モ乙ㄚ刀口ち ver1.0 
+Developer   .\  ed@hybrionic.io  
+<_ © 2017. 7丹pps工nc.(丹sia)                     
 Your Ionic project is ready to go! Some quick tips:
 
 * cd into your project:
