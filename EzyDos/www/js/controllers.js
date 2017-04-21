@@ -1,4 +1,4 @@
-angular.module('your_app_name.controllers', [])
+angular.module('your_app_name.controllers', [])1
 
 .controller('AuthCtrl', function($scope, $ionicConfig) {
 
