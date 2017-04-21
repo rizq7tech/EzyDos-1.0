@@ -1,5 +1,5 @@
 {
-  "name": "ionFullApp",
+  "name": "ezyMekahApp",
   "app_id": "",
   "gulpStartupTasks": [
     "sass",
