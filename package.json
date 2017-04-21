@@ -1,6 +1,6 @@
 {
   "name": "ezymekahapp",
-  "version": "1.2.0",
+  "version": "1.0.0",
   "description": "ezyMekahApp: An Ionic starter project",
   "dependencies": {
     "async": "^1.4.0",
