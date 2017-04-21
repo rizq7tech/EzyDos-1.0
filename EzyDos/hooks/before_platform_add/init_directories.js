@@ -1,4 +1,4 @@
-#!/usr/bin/env node1
+#!/usr/bin/env node
 
 /**
  * On a fresh clone, the local platforms/ and plugins/ directories will be
