@@ -1,4 +1,4 @@
-// Ionic Starter App1
+// Ionic Starter App
 
 angular.module('underscore', [])
 .factory('_', function() {
