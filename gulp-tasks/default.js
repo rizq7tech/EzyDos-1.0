@@ -1,4 +1,4 @@
-var gulp = require('gulp');1
+var gulp = require('gulp');
 var gutil = require('gulp-util');
 var bower = require('bower');
 var sass = require('gulp-sass');
