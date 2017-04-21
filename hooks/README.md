@@ -18,7 +18,7 @@
 # under the License.
 #
 -->
-# Cordova Hooks
+# ionic Cordova Hooks
 
 This directory may contain scripts used to customize cordova commands. This
 directory used to exist at `.cordova/hooks`, but has now been moved to the
