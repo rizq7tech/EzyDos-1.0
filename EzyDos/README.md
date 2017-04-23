@@ -1,3 +1,5 @@
+EzyMekahApp .\ モ乙ㄚ刀口ち ver1.0 Developer .\ ed@hybrionic.io
+<_ © 2017. 7丹pps工nc.(丹sia)
 Your ezyMekahApp Ionic project is ready to go! Some quick tips:
 
 * cd into your project:
@@ -47,4 +49,4 @@ ionic package <MODE> <PLATFORM>
 For more help use ```ionic --help``` or visit the Ionic docs: http://ionicframework.com/docs
 
 
-You can find the documentation here: http://ezymekah.com/api/
+You can find the documentation here: http://ezymekah.com/docs
