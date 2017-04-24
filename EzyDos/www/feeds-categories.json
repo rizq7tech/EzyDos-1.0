@@ -2,7 +2,7 @@
 	{
 		"id":"news",
 		"title":"Hajj & Umrah Travel & Tours News",
-		"image":"img/feeds/news.png",
+		"image":"img/feeds/news.jpg",
 		"feed_sources":[
 			{
 				"id":"bbc",
@@ -78,7 +78,7 @@
 				"id":"forbes",
 				"title":"Surah Al-Fatihah",
 				"description":"Alfatihah",
-				"image":"img/feeds/logos/alfatihah.jpg",
+				"image":"img/feeds/logos/alfatihah.png",
 				"url":"http://ezymekah.com/ezy_dos/doa1/"
 			},
 			{
@@ -135,7 +135,7 @@
 	{
 		"id":"politics",
 		"title":"Misc Tools",
-		"image":"img/feeds/tools.jpg",
+		"image":"img/feeds/tools.png",
 		"feed_sources":[
 			{
 				"id":"the-nation",
